@@ -1,0 +1,29 @@
+http://192.168.10.194/ejournal/auth/login
+
+akun untuk user
+username : superadmin
+password : EJ123456
+
+username : adm_nmcabang
+password : EJ123456
+
+FILTER : CRO4
+http://103.126.57.90/cro_apics/api/perioderpl/datarpl?tid=
+FILTER : CRO
+http://103.126.57.90/cro_apics/api/perioderplall/datarpl?tid=
+
+FILTER OLD : CRO4
+http://103.126.57.90/cro_apics/api/perioderplold/datarplold?tid=&rpl_awal=
+FILTER OLD : CRO
+http://103.126.57.90/cro_apics/api/perioderplallold/datarplold?tid=&rpl_awal=
+
+http://103.126.57.99/cro4/
+username : 0130003 - CEMPUT
+pswd : 123
+
+http://103.126.57.99/cro/
+username : 0531623 - SURABAYA
+pswd : 222222
+
+
+leader -> atau pinca -> kabag(untuk approve TID)
